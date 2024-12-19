@@ -3,7 +3,6 @@
 ## 🌟 Sobre mim  
 
 - 🖥️ Estudante de desenvolvimento de sistemas.  
-- 💚 Futura dev Frontend.
 
 ---
 
