@@ -1,5 +1,6 @@
 <div align="center">
-
+  
+  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=liviafaleiro&layout=compact&theme=dark&hide_border=true)
 
 </div>  
 
