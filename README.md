@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-3B0764?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/>  
 </div>
 
+## Currently Learning
+
 <div align="center">  
   <img src="https://img.shields.io/badge/Java-A47DFF?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>  
   <img src="https://img.shields.io/badge/Node.js-3B0764?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>  
