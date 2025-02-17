@@ -19,6 +19,7 @@
 <div align="center">  
   <img src="https://img.shields.io/badge/Java-A47DFF?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>  
   <img src="https://img.shields.io/badge/Node.js-3B0764?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>  
+  <img src="https://img.shields.io/badge/PHP-5C2D91?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </div>
 
 ## Stats
