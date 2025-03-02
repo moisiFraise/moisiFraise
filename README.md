@@ -24,7 +24,7 @@
 
 ## Stats
 <div align="center">
-<img align="center" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisiFraise&cardType=github&bg_color=00000000&Text=000&title_color=A47DFF&border_color=A47DFF&card_width=200" alt="readme-typing-svg">
+<img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisiFraise&cardType=github&bg_color=00000000&Text=000&title_color=A47DFF&border_color=A47DFF&card_width=200" alt="readme-typing-svg">
  
 </div>
 
